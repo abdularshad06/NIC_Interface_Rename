@@ -4,7 +4,7 @@ Change NIC Interface Name
 
 How to Change NIC Name in Linux CentOS 7
 
-1)	Ifconfig
+1)	ifconfig
 
  
 
